@@ -19,10 +19,10 @@ Follow these steps to set up and run the project on your local machine:
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/PavankumarUppar/Django-CRM.git
-   cd Django-CRM
-   ```
+  ```bash
+  git clone https://github.com/PavankumarUppar/Django-CRM.git
+  cd Django-CRM
+  ```
    
 2. **Create a Vurtual Environment**
 
@@ -81,7 +81,7 @@ Follow these steps to set up and run the project on your local machine:
    - Visit (http://127.0.0.1:8000/register/) to register a new user account.
 
 2. Login
-   - Visit (http://127.0.0.1:8000/) to log in using your registered account.
+   - Visit http://127.0.0.1:8000/ to log in using your registered account.
 
 3. Customer Records
    - Once logged in, you can view, add, update, and delete customer records.
